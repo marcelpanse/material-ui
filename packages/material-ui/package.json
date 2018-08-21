@@ -1,6 +1,6 @@
 {
-  "name": "@material-ui/core",
-  "private": true,
+  "name": "@unless.com/material-ui-core",
+  "private": false,
   "author": "Material-UI Team",
   "version": "1.5.0",
   "description": "React components that implement Google's Material Design.",
